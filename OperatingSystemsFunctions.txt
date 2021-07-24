@@ -3,3 +3,8 @@ Is the managment of the primary or main memory. It has a fast storage system and
 When memory becomes free,it will decide what program needs it the most and locate it there.
 It is espescially ideal for advanced computers that may have more than one process running at a time.
 
+File Management:
+A File system is collection of information put on a disk that makes it easier to navigate to files that you have saved.
+It keeps track of where files are located and it keeps you from losing or destroying your data.
+It allows you to name file and keep track of then in the way that you want.
+
