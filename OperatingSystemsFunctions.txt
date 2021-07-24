@@ -1,0 +1,5 @@
+Memory Managment:
+Is the managment of the primary or main memory. It has a fast storage system and keeps track of location,status,information etc.
+When memory becomes free,it will decide what program needs it the most and locate it there.
+It is espescially ideal for advanced computers that may have more than one process running at a time.
+
