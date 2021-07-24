@@ -8,3 +8,7 @@ A File system is collection of information put on a disk that makes it easier to
 It keeps track of where files are located and it keeps you from losing or destroying your data.
 It allows you to name file and keep track of then in the way that you want.
 
+Data Security:
+Data security preotects your computer from unwanted usuers and unauthorized actions.
+It can help you to secure all of your private information stored on you computer.
+Helps you to back up information that you may need in the future.
